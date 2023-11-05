@@ -641,7 +641,7 @@ a {
     }
 
     .comment__card_more {
-        display: block;
+        display: flex;
     }
 
     .collaboration {
